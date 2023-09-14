@@ -1,3 +1,5 @@
+see[ Smashing Magazine Article ](https://www.smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/) 
+
 # Job Listing SSR Sveltekit
 
 Sample demo app which show how to do SSR with Sveltekit using Job Listing site as an example. This app is intended for learning purpose and not suitable for production.
