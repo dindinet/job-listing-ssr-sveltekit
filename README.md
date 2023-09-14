@@ -1,4 +1,4 @@
-see[ Smashing Magazine Article ](https://www.smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/) and for a [Good Explanation of sveltekit as Full-Stack Framework](https://www.codemotion.com/magazine/frontend/how-to-guide-creating-a-blog-in-5-mins-with-sveltekit/)
+see[ Smashing Magazine Article ](https://www.smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/) and for a Good Explanation of [sveltekit as Full-Stack Framework](https://www.codemotion.com/magazine/frontend/how-to-guide-creating-a-blog-in-5-mins-with-sveltekit/)
 
 # Job Listing SSR Sveltekit
 
